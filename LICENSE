@@ -32,18 +32,18 @@ Subject to the terms and conditions of this License, Antikerlab grants you, star
 
 (b) You must include a copy of this License with every copy of Source Code, Covered Code and documentation You distribute or Externally Deploy.
 
-(c) You are not permitted to offer or impose any terms on the Source Code, that alter or restrict this License or the recipient's rights, except as permitted under Section [Insert Number].
+(c) You are not permitted to offer or impose any terms on the Source Code, that alter or restrict this License or the recipient's rights, except as permitted under Section 6.
 
 
 2.2 Modified Code. You may modify Covered Code and use, reproduce, display, perform, internally distribute within your Organisation, and Externally Deploy Your Modifications and Covered Code, for commercial or non-commercial purposes, provided that in each instance You also meet all of these conditions:
 
 (a) You must fulfill all the conditions of section 2.1 concerning the Source Code of the Covered Code.
 
-(a) You must duplicate, if not already exist, the notice in Exhibit B in each file of the Source Code of all Your Modifications, and cause the modified files to carry notices stating you changed the files and the date of the change.
+(b) You must duplicate, if not already exist, the notice in Exhibit A in each file of the Source Code of all Your Modifications, and cause the modified files to carry notices stating you changed the files and the date of the change.
 
 (c) If you Deploy Your Modifications, You must make the Source Code of all Your Deployed Modifications available to whom you Deployed your Modifications or publicly available. Source Code of your Deployed Modifications must be released under the terms outlined in this License, for as long you Deploy the Covered Code. You should preferably distribute the Source Code of Your Deployed Modifications electronically. (e.g. Github).
 
-2.3 Distribution of Executable Versions. Also, if you Deploy Covered Code (Original Code and/or Modifications) in executable form only, you must include a prominent notice, in the Code and Software About Section as shown in Exhibit A as well as in related documentation.
+2.3 Distribution of Executable Versions. Also, if you Deploy Covered Code (Original Code and/or Modifications) in executable form only, you must include a prominent notice, in the Code and Software About Section as shown in Exhibit B as well as in related documentation.
 
 2.4 Third party Rights. You acknowledge and agree that although Antikerlab and each Contributor grant the licenses to their respective portion of the Covered Code, no assurance is provided by Antikerlab or any Contributor that the Covered Code does not infringe the patent or any other intellectual property rights of any other entity. Antikerlab and each Contributor disclaim any
 liability to You for claims brought by any other entity based on infringement of intellectual property rights or otherwise. As a condition to exercising the rights and licenses granted hereunder, You hereby assume sole responsibility to secure any other intellectual property rights needed, if any.
@@ -78,13 +78,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
 EXHIBIT A.
-
-"Portions Copyright © 2019 Antikerlab Africa. All Rights Reserved.
-Source Code Available at [Insert Source Code Website Here]
-
-
-EXHIBIT B.
 
 /* Copyright (C) 2019 Antikerlab Africa - All Rights Reserved
  * You may use, distribute and modify this code under the
@@ -93,10 +88,14 @@ EXHIBIT B.
  * You should have received a copy of the license with
  * this file. If not, please write to: license@antikerlab.africa , or visit : http://license.antikerlab.africa
  *
- * NOTICE: [Insert your Modification Notice]
+ * NOTICE: [Insert your Modification Notice]. 
  * Copyright (c) [Year] [Name]
+ * This notice is included in support of clause 2.2 (c) of the Antikerlab Africa Public License,Version 1.0.
  */
 
+EXHIBIT B.
+
+"Portions Copyright © 2019 Antikerlab Africa. All Rights Reserved.
+Source Code Available at [Insert Source Code Website Here]
 
 
-This Public Source License is limited to be used only with Software/Code written/created by Antikerlab Africa.
