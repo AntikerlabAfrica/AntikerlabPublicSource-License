@@ -1,4 +1,4 @@
-# AntikerlabPublicSource-License
+# AntikerlabAfricaPublicSource-License
 Antikerlab Public Source License (AAPSL)
 
 Upload for Review by 3rd Party (All Pipo on Github)
